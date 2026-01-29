@@ -3,7 +3,7 @@ const komik = [
 {
   id: "How to Send Your Husband to Hell",
   judul: "How to Send Your Husband to Hell",
-  cover: "https://via.placeholder.com/300x450",
+  cover: "https://drive.google.com/uc?export=view&id=1wWi_W6-cEA4TZA2J9w0jd50ZKBI3mEpy",
   genre: ["Romance,Historical"],
   status: "Ongoing",
   chapterTerbaru: 1,
