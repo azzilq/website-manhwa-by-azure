@@ -8,3 +8,16 @@ gambar:[
 }
 ]
 }
+<section id="komentar">
+  <h3>💬 Komentar Pembaca</h3>
+
+  <input type="text" id="namaKomentar" placeholder="Nama kamu">
+  <textarea id="isiKomentar" placeholder="Tulis komentar kamu..."></textarea>
+
+  <button onclick="kirimKomentar()">Kirim</button>
+
+  <div id="listKomentar"></div>
+</section>
+
+<script src="js/komentar.js"></script>
+  
